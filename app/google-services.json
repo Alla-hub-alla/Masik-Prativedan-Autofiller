@@ -1,1 +1,5 @@
-{"project_info":{"project_number":"1","project_id":"a"},"client":[{"client_info":{"mobilesdk_app_id":"1:1:android:1","client_package_name":"com.example"}}],"configuration_version":"1"}
+{
+  "project_info": {"project_number": "123456789", "project_id": "masik-app"},
+  "client": [{"client_info": {"mobilesdk_app_id": "1:123456789:android:abcdef123456", "android_client_info": {"package_name": "com.aistudio.masikprativedan.autofill"}}}],
+  "configuration_version": "1"
+}
