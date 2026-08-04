@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Masik Prativedan Autofiller</string>
+    <string name="accessibility_service_label">Autofill Bot Helper</string>
+    <string name="accessibility_service_description">Automates monthly report form auto-filling into target application from batch queue.</string>
+</resources>

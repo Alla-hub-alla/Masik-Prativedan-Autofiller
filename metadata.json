@@ -1,0 +1,6 @@
+{
+  "name": "Masik Prativedan Autofiller",
+  "description": "AI Camera Scanner and Accessibility Auto-fill bot for monthly report form data extraction and automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
