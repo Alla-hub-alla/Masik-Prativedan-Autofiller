@@ -1,5 +1,1 @@
-{
-  "project_info": {"project_number": "123456789", "project_id": "masik-app"},
-  "client": [{"client_info": {"mobilesdk_app_id": "1:123456789:android:abcdef123456", "android_client_info": {"package_name": "com.aistudio.masikprativedan.autofill"}}}],
-  "configuration_version": "1"
-}
+{"project_info":{"project_number":"123456789012","project_id":"dummy-project"},"client":[{"client_info":{"mobilesdk_app_id":"1:123456789012:android:a1b2c3d4e5f6","android_client_info":{"package_name":"com.aistudio.masikprativedan.autofill"}},"api_key":[{"current_key":"AIzaSyDummyKeyForBuildProcess1234567890"}]}],"configuration_version":"1"}
